@@ -6,12 +6,12 @@ Materiales y Recursos para el curso de Tratamiento Matemático de la Maestría e
 
 ### Textos Recomendados
 G. Strang. *Introduction to Linear Algebra*, 5th Edition.<br>
-S. Boyd. *Introduction to Applied Linear Algebra*, [http://vmls-book.stanford.edu/](link).<br>
+S. Boyd. *Introduction to Applied Linear Algebra*, [link](http://vmls-book.stanford.edu/).<br>
 D. Lay. *Linear Algebra and its Applications*, 5th Edition.<br>
 
 ### Cursos Recomendados 
-Fast.ai - [http://www.fast.ai/2017/07/17/num-lin-alg/](Numerical Linear Algebra).<br>
-MIT - Gilbert Strang - [https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm](Linear Algebra).<br>
-Khan Academy - [https://es.khanacademy.org/math/linear-algebra/vectors-and-spaces](Linear Algebra).<br>
-3Blue1Brown - [https://www.youtube.com/watch?v=kjBOesZCoqc&list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B](Videos)
+Fast.ai - [Numerical Linear Algebra.](https://www.fast.ai/2017/07/17/num-lin-alg/).<br>
+MIT - Gilbert Strang - [Linear Algebra.](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm).<br>
+Khan Academy - [Linear Algebra.](https://es.khanacademy.org/math/linear-algebra/vectors-and-spaces).<br>
+3Blue1Brown - [Videos.](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B)
 
