@@ -3,7 +3,6 @@ Materiales y Recursos para el curso de Tratamiento Matemático de la Maestría e
 
 
 ## Algebra Lineal
-
 ### Textos Recomendados
 G. Strang. *Introduction to Linear Algebra*, 5th Edition.<br>
 S. Boyd. *Introduction to Applied Linear Algebra*, [link](http://vmls-book.stanford.edu/).<br>
@@ -15,3 +14,7 @@ MIT - Gilbert Strang - [Linear Algebra](https://ocw.mit.edu/courses/mathematics/
 Khan Academy - [Linear Algebra](https://es.khanacademy.org/math/linear-algebra).<br>
 3Blue1Brown - [Videos](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B).
 
+## Probabilidad
+### Textos Recomendados
+S. Ross. *A First Course in Probability*, 9th Edition.<br>
+D. Bertsekas. *Introduction to Probability*, 2nd Edition.
