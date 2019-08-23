@@ -5,7 +5,7 @@ Materiales y Recursos para el curso de Tratamiento Matemático de la Maestría e
 ## Algebra Lineal
 
 ### Textos Recomendados
-G. Strang. *Introduction to Linear Algebra*, 5th Edition.
+G. Strang. *Introduction to Linear Algebra*, 5th Edition.<br>
 S. Boyd. *Introduction to Applied Linear Algebra*, [http://vmls-book.stanford.edu/](link).
 D. Lay. *Linear Algebra and its Applications*, 5th Edition.
 
