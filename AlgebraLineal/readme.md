@@ -15,9 +15,9 @@ https://stanford.edu/~shervine/teaching/cs-229/refresher-algebra-calculus
 
 
 ## Librerias Python
-# Numpy
+### Numpy
 https://docs.scipy.org/doc/numpy/reference/routines.linalg.html <br>
-# Scipy
+### Scipy
 https://docs.scipy.org/doc/scipy/reference/tutorial/linalg.html <br>
 
 ## Documentación Julia
