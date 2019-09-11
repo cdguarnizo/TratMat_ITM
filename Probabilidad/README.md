@@ -5,5 +5,5 @@ S. Ross. *A First Course in Probability*, 9th Edition.<br>
 D. Bertsekas. *Introduction to Probability*, 2nd Edition. <br>
 
 ## Cheat Sheets - Resumenes
-http://www.wzchen.com/probability-cheatsheet/
+http://www.wzchen.com/probability-cheatsheet/ <br>
 https://stanford.edu/~shervine/teaching/cs-229/refresher-probabilities-statistics
