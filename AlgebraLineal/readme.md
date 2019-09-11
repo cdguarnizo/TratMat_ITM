@@ -9,3 +9,7 @@ Fast.ai - [Numerical Linear Algebra](https://www.fast.ai/2017/07/17/num-lin-alg/
 MIT - Gilbert Strang - [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm).<br>
 Khan Academy - [Linear Algebra](https://es.khanacademy.org/math/linear-algebra).<br>
 3Blue1Brown - [Videos](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B).
+
+## CheatSheet - Resumenes
+http://www.wzchen.com/probability-cheatsheet/
+https://stanford.edu/~shervine/teaching/cs-229/refresher-probabilities-statistics
