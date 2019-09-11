@@ -12,3 +12,11 @@ Khan Academy - [Linear Algebra](https://es.khanacademy.org/math/linear-algebra).
 
 ## CheatSheet - Resumenes
 https://stanford.edu/~shervine/teaching/cs-229/refresher-algebra-calculus
+
+
+## Documentación Numpy
+https://docs.scipy.org/doc/numpy/reference/routines.linalg.html <br>
+
+## Documentación Julia
+https://docs.julialang.org/en/v1/stdlib/LinearAlgebra/index.html <br>
+[Julia Companion of S. Boyd's book](http://vmls-book.stanford.edu/vmls-julia-companion.pdf)
