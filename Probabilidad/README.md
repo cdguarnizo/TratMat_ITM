@@ -4,6 +4,9 @@ C.M. Bishop. *Pattern Recognition and Machine Learning*, 2006, [link](https://ww
 S. Ross. *A First Course in Probability*, 9th Edition.<br>
 D. Bertsekas. *Introduction to Probability*, 2nd Edition. <br>
 
+## Cursos recomendados
+https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/index.htm
+
 ## Cheat Sheets - Resumenes
 http://www.wzchen.com/probability-cheatsheet/ <br>
 https://stanford.edu/~shervine/teaching/cs-229/refresher-probabilities-statistics
