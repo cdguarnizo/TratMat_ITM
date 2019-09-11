@@ -14,8 +14,11 @@ Khan Academy - [Linear Algebra](https://es.khanacademy.org/math/linear-algebra).
 https://stanford.edu/~shervine/teaching/cs-229/refresher-algebra-calculus
 
 
-## Documentación Numpy
+## Librerias Python
+# Numpy
 https://docs.scipy.org/doc/numpy/reference/routines.linalg.html <br>
+# Scipy
+https://docs.scipy.org/doc/scipy/reference/tutorial/linalg.html <br>
 
 ## Documentación Julia
 https://docs.julialang.org/en/v1/stdlib/LinearAlgebra/index.html <br>
