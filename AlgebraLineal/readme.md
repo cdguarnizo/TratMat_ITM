@@ -11,5 +11,4 @@ Khan Academy - [Linear Algebra](https://es.khanacademy.org/math/linear-algebra).
 3Blue1Brown - [Videos](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B).
 
 ## CheatSheet - Resumenes
-http://www.wzchen.com/probability-cheatsheet/
-https://stanford.edu/~shervine/teaching/cs-229/refresher-probabilities-statistics
+
