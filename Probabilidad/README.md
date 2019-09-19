@@ -5,8 +5,8 @@ S. Ross. *A First Course in Probability*, 9th Edition, 2014.<br>
 D. Bertsekas. *Introduction to Probability*, 2nd Edition, 2008, [link](https://www.vfu.bg/en/e-Learning/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf). <br>
 
 ## Cursos recomendados
-https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/index.htm <br>
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/
+MIT - John Tsitsiklis - [Introduction to Probability 2018](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/index.htm) <br>
+MIT - John Tsitsiklis - [Probabilistic Systems Analysis and Applied Probability 2013](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/) 
 
 ## Cheat Sheets - Resumenes
 http://www.wzchen.com/probability-cheatsheet/ <br>
