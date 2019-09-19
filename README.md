@@ -22,3 +22,4 @@ D. Bertsekas. *Introduction to Probability*, 2nd Edition. <br>
 
 ### Cursos Recomendados 
 Khan Academy - [Probability and Statistics](https://www.khanacademy.org/math/statistics-probability)<br>
+MIT - John Tsitsiklis - [Introduction to Probability](https://ocw-origin.odl.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/) <br>
