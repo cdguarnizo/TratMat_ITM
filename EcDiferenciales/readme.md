@@ -1,7 +1,7 @@
 # Ecuaciones Diferenciales
 ## Textos Recomendados
 G. Strang *Differential Equations and Linear Algebra*, 2014. <br>
-D. Zill. *Ecuaciones Diferenciales*, #ra Edición, 2014.<br>
+D. Zill. *Ecuaciones Diferenciales*, 3ra Edición, 2014.<br>
 
 ## Cursos recomendados
 MIT - Gilbert Strang - [Differential Equations and Linear Algebra 2015](https://ocw.mit.edu/resources/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/differential-equations-and-linear-algebra/) <br>
