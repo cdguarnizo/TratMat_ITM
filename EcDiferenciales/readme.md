@@ -13,7 +13,7 @@ Khan Academy - [Ecuaciones Diferenciales](https://es.khanacademy.org/math/differ
 ## Cheat Sheets - Resumenes
 [S. Amidi - Ordinary Differential Equations for Engineers](https://stanford.edu/~shervine/teaching/cme-102/) <br>
 
-## Python - Librerias aleatorios
+## Python - Librerias
 ### Python Control Systems Library
 https://python-control.readthedocs.io/en/0.8.2/index.html<br>
 ### SciPy - ODE
