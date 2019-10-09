@@ -9,7 +9,7 @@ MIT - Gilbert Strang - [Differential Equations and Linear Algebra 2015](https://
 Khan Academy - [Ecuaciones Diferenciales](https://es.khanacademy.org/math/differential-equations)
 
 ## Enlaces de interes
-[Analogias de Sistemas Fisicos](http://www.dartmouth.edu/~sullivan/22files/System_analogy_all.pdf)
+[Analogías de Sistemas Fisicos](http://www.dartmouth.edu/~sullivan/22files/System_analogy_all.pdf)
 
 ## Cheat Sheets - Resumenes
 [S.Amidi - Ordinary Differential Equations for Engineers](https://stanford.edu/~shervine/teaching/cme-102/) <br>
