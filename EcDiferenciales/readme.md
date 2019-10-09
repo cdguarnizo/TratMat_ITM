@@ -6,6 +6,7 @@ D. Bertsekas. *Introduction to Probability*, 2nd Edition, 2008, [link](https://w
 
 ## Cursos recomendados
 MIT - Gilbert Strang - [Differential Equations and Linear Algebra 2015](https://ocw.mit.edu/resources/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/differential-equations-and-linear-algebra/) <br>
+Khan Academy - [Ecuaciones Diferenciales](https://es.khanacademy.org/math/differential-equations)
 
 ## Enlaces de interes
 [Analogias de Sistemas Fisicos](http://www.dartmouth.edu/~sullivan/22files/System_analogy_all.pdf)
