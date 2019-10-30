@@ -4,6 +4,9 @@ G. Strang *Differential Equations and Linear Algebra*, 2014. <br>
 D. Zill. *Ecuaciones Diferenciales*, 3ra Edición, 2014.<br>
 O. Duarte. *Análisis de Sistemas Dinamicos Lineales*, [link](ftp://ftp.unicauca.edu.co/Facultades/FIET/DEIC/Materias/Sistemas%20Dinamicos/An%E1lisis%20de%20sistemas%20din%E1micos.pdf).
 
+## Transformadas de Laplace
+[link](http://www.dartmouth.edu/~sullivan/22files/New%20Laplace%20Transform%20Table.pdf) <br>
+
 ## Cursos recomendados
 MIT - Gilbert Strang - [Differential Equations and Linear Algebra 2015](https://ocw.mit.edu/resources/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/differential-equations-and-linear-algebra/) <br>
 Khan Academy - [Ecuaciones Diferenciales](https://es.khanacademy.org/math/differential-equations)
