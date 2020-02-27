@@ -23,3 +23,13 @@ D. Bertsekas. *Introduction to Probability*, 2nd Edition. <br>
 ### Cursos Recomendados 
 Khan Academy - [Probability and Statistics](https://www.khanacademy.org/math/statistics-probability)<br>
 MIT - John Tsitsiklis - [Introduction to Probability](https://ocw-origin.odl.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/) <br>
+
+## Ecuaciones diferenciales
+### Textos Recomendados
+G. Strang *Differential Equations and Linear Algebra*, 2014. <br>
+D. Zill. *Ecuaciones Diferenciales*, 3ra Edición, 2014.<br>
+O. Duarte. *Análisis de Sistemas Dinamicos Lineales*, [link](ftp://ftp.unicauca.edu.co/Facultades/FIET/DEIC/Materias/Sistemas%20Dinamicos/An%E1lisis%20de%20sistemas%20din%E1micos.pdf).
+
+### Cursos Recomendados
+MIT - Gilbert Strang - [Differential Equations and Linear Algebra 2015](https://ocw.mit.edu/resources/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/differential-equations-and-linear-algebra/) <br>
+Khan Academy - [Ecuaciones Diferenciales](https://es.khanacademy.org/math/differential-equations)
