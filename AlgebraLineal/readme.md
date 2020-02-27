@@ -24,7 +24,7 @@ https://docs.scipy.org/doc/numpy/reference/routines.linalg.html <br>
 ### Scipy
 https://docs.scipy.org/doc/scipy/reference/tutorial/linalg.html <br>
 
-## Sympy
+### Sympy
 https://docs.sympy.org/latest/modules/matrices/matrices.html
 
 ## Documentación Julia
