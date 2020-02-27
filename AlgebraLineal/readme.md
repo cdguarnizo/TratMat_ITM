@@ -24,6 +24,9 @@ https://docs.scipy.org/doc/numpy/reference/routines.linalg.html <br>
 ### Scipy
 https://docs.scipy.org/doc/scipy/reference/tutorial/linalg.html <br>
 
+## Sympy
+https://docs.sympy.org/latest/modules/matrices/matrices.html
+
 ## Documentación Julia
 https://docs.julialang.org/en/v1/stdlib/LinearAlgebra/index.html <br>
 [Julia Companion of S. Boyd's book](http://vmls-book.stanford.edu/vmls-julia-companion.pdf)
