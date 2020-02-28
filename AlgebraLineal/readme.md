@@ -13,6 +13,11 @@ MIT - Gilbert Strang - [Linear Algebra](https://ocw.mit.edu/courses/mathematics/
 Khan Academy - [Linear Algebra](https://es.khanacademy.org/math/linear-algebra).<br>
 3Blue1Brown - [Videos](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B).
 
+## Calculo Matricial
+[Resumen Imperial London College](http://www.ee.ic.ac.uk/hp/staff/dmb/matrix/calculus.html) <br>
+[Wiki Matrix Calculus](https://en.wikipedia.org/wiki/Matrix_calculus) <br>
+[Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
+
 ## CheatSheet - Resumenes
 https://stanford.edu/~shervine/teaching/cs-229/refresher-algebra-calculus
 
