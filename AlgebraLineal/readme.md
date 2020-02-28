@@ -19,7 +19,8 @@ Khan Academy - [Linear Algebra](https://es.khanacademy.org/math/linear-algebra).
 [Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 
 ## CheatSheet - Resumenes
-https://stanford.edu/~shervine/teaching/cs-229/refresher-algebra-calculus
+https://stanford.edu/~shervine/teaching/cs-229/refresher-algebra-calculus <br>
+[Fatorización de Matrices](https://math.mit.edu/~gs/linearalgebra/linearalgebra5_Matrix.pdf)
 
 
 ## Librerias Python
