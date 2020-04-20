@@ -2,7 +2,8 @@
 ## Textos Recomendados
 G. Strang *Differential Equations and Linear Algebra*, 2014. <br>
 D. Zill. *Ecuaciones Diferenciales*, 3ra Edición, 2014.<br>
-O. Duarte. *Análisis de Sistemas Dinamicos Lineales*, [link](ftp://ftp.unicauca.edu.co/Facultades/FIET/DEIC/Materias/Sistemas%20Dinamicos/An%E1lisis%20de%20sistemas%20din%E1micos.pdf).
+O. Duarte. *Análisis de Sistemas Dinamicos Lineales*, [link](ftp://ftp.unicauca.edu.co/Facultades/FIET/DEIC/Materias/Sistemas%20Dinamicos/An%E1lisis%20de%20sistemas%20din%E1micos.pdf).<br>
+Richard C. Dorf.  *Modern Control Theory*, 2017.
 
 ## Transformadas de Laplace
 [Laplace link](http://www.dartmouth.edu/~sullivan/22files/New%20Laplace%20Transform%20Table.pdf) <br>
