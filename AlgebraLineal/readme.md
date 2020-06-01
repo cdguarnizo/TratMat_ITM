@@ -4,6 +4,9 @@ G. Strang. *Introduction to Linear Algebra*, 5th Edition.<br>
 S. Boyd. *Introduction to Applied Linear Algebra*, [link](http://vmls-book.stanford.edu/).<br>
 D. Lay. *Linear Algebra and its Applications*, 5th Edition.<br>
 
+## Video Tutorials
+Gilber Strang. [A New Way to Start Linear Algebra](https://www.youtube.com/watch?v=YrHlHbtiSM0)
+
 ## Libro interactivo
 D. Margalit and J. Rabinoff. *Interactive Linear Algebra*, 2019. [link](https://textbooks.math.gatech.edu/ila/index.html).<br>
 
