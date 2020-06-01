@@ -10,7 +10,7 @@ D. Margalit and J. Rabinoff. *Interactive Linear Algebra*, 2019. [link](https://
 ## Cursos Recomendados 
 Fast.ai - [Numerical Linear Algebra](https://www.fast.ai/2017/07/17/num-lin-alg/).<br>
 MIT - Gilbert Strang - [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm).<br>
-Gilber Strang. [A New Way to Start Linear Algebra](https://www.youtube.com/watch?v=YrHlHbtiSM0)
+Gilber Strang. [A New Way to Start Linear Algebra](https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/videos/)
 Khan Academy - [Linear Algebra](https://es.khanacademy.org/math/linear-algebra).<br>
 3Blue1Brown - [Videos](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B).
 
