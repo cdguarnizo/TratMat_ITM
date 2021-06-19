@@ -22,7 +22,7 @@ Khan Academy - [Ecuaciones Diferenciales](https://es.khanacademy.org/math/differ
 
 ## Python - Librerias
 ### Python Control Systems Library
-[Control](https://python-control.readthedocs.io/en/0.8.2/index.html)<br>
+[Control](https://python-control.readthedocs.io/)<br>
 [SciPy - ODE](https://scipy-cookbook.readthedocs.io/items/idx_ordinary_differential_equations.html)<br>
 [SciPy Signal](https://docs.scipy.org/doc/scipy/reference/signal.html) (Funciones de transferencia y respuestas de sistemas LTI) <br>
 
